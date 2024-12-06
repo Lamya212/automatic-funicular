@@ -1,0 +1,2 @@
+# automatic-funicular
+Bonnes idées
